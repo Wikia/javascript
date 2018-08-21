@@ -1,3 +1,7 @@
+# NOTICE
+
+Wikia switched to using [AirBnB JS guidelines](https://github.com/airbnb/javascript) for ES6+.
+
 # Wikia JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
